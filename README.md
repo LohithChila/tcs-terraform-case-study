@@ -1,0 +1,1 @@
+# The Case study for the Terraform training
